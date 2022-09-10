@@ -1,0 +1,70 @@
+/*!  NAVBAR  */
+/*! HERO SECTION  */
+.pic {
+  background-image: url(../img/banner.jpeg);
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+.card-img-overlay {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.h,
+.p {
+  color: orangered;
+}
+.btn {
+  width: 10rem;
+  height: 3rem;
+}
+
+/*! SERVICES  */
+
+.icon {
+  background-color: #dc3545;
+  color: white;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.colmn {
+}
+/*! PORTFOLIO  */
+/*!  ABOUT US  */
+.bb {
+  border: none;
+}
+/*!  OUR TEAM  */
+.team img {
+  width: 250px;
+  border: 10px solid #cccccc;
+  border-radius: 50%;
+}
+.team a {
+  display: inline-block;
+  /* width: 40px;
+  height: 40px; */
+  border-radius: 50%;
+  background-color: #333333;
+  color: white;
+}
+.team i {
+  padding: 1rem;
+}
+/*!  SECONDARY NAV  */
+
+.second img {
+  max-height: 50px;
+}
+.ss {
+  display: flex;
+  flex-wrap: wrap;
+}
+/*! CONTACT US  */
+/*!  FOOTER  */
